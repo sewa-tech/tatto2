@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Jan 2024 14:32:00 at https://tattooisttemplate-showcase.webflow.io/home +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*webp* +*.otf* +*.ttf* +*.svg* +*.woff2*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F  -%F  -%l "en, *" https://tattooisttemplate-showcase.webflow.io/home -O1 "D:\client-sites\tattoo2" +*.png* +*.gif* +*.jpg* +*.jpeg* +*.css* +*.js -ad.doubleclick.net/* -mime:application/foobar +*webp* +*.otf* +*.ttf* +*.svg* +*.woff2* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:36:56	Error: 	"Not Found" (404) at link https://tattooisttemplate-showcase.webflow.io/"https://assets-global.website-files.com/63e146b13f318ec9e24576b7/63e146b13f318e7c8d4578dc_featured-image-1-blog-tattooist-template.jpg" (from https://tattooisttemplate-showcase.webflow.io/blog)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 minutes 12 seconds : 332 links scanned, 328 files written (24619997 bytes overall) [20850383 bytes received at 66828 bytes/sec], 5349227 bytes transferred using HTTP compression in 137 files, ratio 25%, 15.8 requests per connection
+(1 errors, 0 warnings, 0 messages)
